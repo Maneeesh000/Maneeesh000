@@ -27,3 +27,5 @@ Dedicated to transforming complex datasets into actionable business strategies. 
 Maneeesh000/Maneeesh000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Maneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maneeesh000&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maneeesh000&layout=compact&theme=radical)
